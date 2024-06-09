@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "magic", "magic.csproj", "{93AC8B6B-15BE-4660-BF6B-42E21F3341F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutorMath.logic", "..\TutorMath.logic\TutorMath.logic.csproj", "{E8084105-F3BA-4AA3-B576-852FB17BCB65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateAndLambda", "..\DelegateAndLambda\DelegateAndLambda.csproj", "{405A04E2-5ADC-445E-BB25-4BB6A611BD3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93AC8B6B-15BE-4660-BF6B-42E21F3341F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AC8B6B-15BE-4660-BF6B-42E21F3341F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AC8B6B-15BE-4660-BF6B-42E21F3341F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AC8B6B-15BE-4660-BF6B-42E21F3341F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8084105-F3BA-4AA3-B576-852FB17BCB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8084105-F3BA-4AA3-B576-852FB17BCB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8084105-F3BA-4AA3-B576-852FB17BCB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8084105-F3BA-4AA3-B576-852FB17BCB65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405A04E2-5ADC-445E-BB25-4BB6A611BD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405A04E2-5ADC-445E-BB25-4BB6A611BD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405A04E2-5ADC-445E-BB25-4BB6A611BD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405A04E2-5ADC-445E-BB25-4BB6A611BD3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73A9511B-23BD-42B3-AC01-7D728D00CAD6}
+	EndGlobalSection
+EndGlobal
